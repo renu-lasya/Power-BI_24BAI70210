@@ -95,5 +95,5 @@ The data profiling results were displayed in Power Query using **Column Quality,
 
 ### Screenshots
 
-![Power BI Data Profiling](<img width="843" height="532" alt="image" src="https://github.com/user-attachments/assets/d383e85e-6f5d-4638-9afc-7fe5a46406b0" />
+![Power BI Data Profiling](<img width="1402" height="1122" alt="exp 1output of bi" src="https://github.com/user-attachments/assets/2eea7e54-210f-4454-bf33-78fc71f81912" />
 )
