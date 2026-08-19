@@ -2,8 +2,8 @@
 
 ##  Student Information
 
-**Name:** Renulasya
-**UID:** 24BAI70210
+**Name:** **Renulasya**
+**UID:** **24BAI70210**
 **University:** Chandigarh University
 **Program:** B.Tech – Artificial Intelligence and Machine Learning
 
