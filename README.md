@@ -1,15 +1,15 @@
 # Power BI Analytics and Visualization
 
-## 👩‍💻 Student Information
+##  Student Information
 
-**Name:**RENULASYA
-**UID:**24BAI70210
+**Name:** Renulasya
+**UID:** 24BAI70210
 **University:** Chandigarh University
 **Program:** B.Tech – Artificial Intelligence and Machine Learning
 
 ---
 
-## 📊 Project Overview
+##  Project Overview
 
 This repository contains my practical work for **Data Analysis and Visualization using Microsoft Power BI**.
 
