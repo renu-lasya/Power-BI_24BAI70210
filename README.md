@@ -91,9 +91,3 @@ After completing these practicals, I gained hands-on understanding of:
 
 ---
 
-## 👤 Author
-
-**Your Name**
-**UID:** Your UID
-**Chandigarh University**
-**B.Tech – Artificial Intelligence and Machine Learning**
