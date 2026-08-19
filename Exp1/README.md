@@ -4,13 +4,6 @@
 
 To acquire data from multiple sources and perform data profiling using **Microsoft Power BI** to assess data quality, understand data structure, identify anomalies, and prepare data for further analytical processing.
 
-## Student Details
-
-**Name:** Renulaysa  
-**UID:** 24BAI70210  
-**University:** Chandigarh University  
-**Program:** B.Tech – Artificial Intelligence and Machine Learning
-
 ## Tools / Software Required
 
 - Microsoft Power BI Desktop
