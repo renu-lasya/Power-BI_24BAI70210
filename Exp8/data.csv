@@ -1,0 +1,385 @@
+﻿Order ID,Customer Name,Product Name,Region,Sum of Sales,Sum of Profit
+CA-2017-SV1081523-43092,Stuart Van,"Motorola Smart Phone, Full Size",Canada,3863.88,1159.02
+CA-2016-DW348023-42606,Dianna Wilson,"Hewlett Wireless Fax, High-Speed",Canada,2270.34,1112.4
+CA-2015-RH960023-42192,Rob Haberlin,"Breville Microwave, White",Canada,1799.1,593.64
+CA-2017-DC285023-43066,Dan Campbell,"Safco Classic Bookcase, Pine",Canada,1758,70.32
+CA-2016-SS1041023-42726,Shahid Shariari,"Rogers File Cart, Single Width",Canada,1704.96,272.52
+CA-2017-JK562523-42784,Jim Karlsson,"SanDisk Router, USB",Canada,1539.36,646.38
+CA-2015-BF108023-42184,Bart Folk,"Hewlett Wireless Fax, High-Speed",Canada,1513.56,741.6
+CA-2015-AA48023-42162,Andrew Allen,"Hamilton Beach Stove, Red",Canada,1084.68,488.1
+CA-2014-EB384023-41840,Ellis Ballard,"Hamilton Beach Stove, Black",Canada,1083.54,400.86
+CA-2017-SW1027523-43016,Scott Williamson,"Hon Swivel Stool, Black",Canada,967.32,270.72
+CA-2015-DM352523-42139,Don Miller,"Rogers Lockers, Industrial",Canada,848.4,322.32
+CA-2015-NH861023-42160,Nicole Hansen,"Rogers Lockers, Single Width",Canada,846.6,372.48
+CA-2017-DO364523-42972,Doug O'Connell,"Fellowes Lockers, Blue",Canada,829.32,215.52
+CA-2017-BT153023-42748,Bradley Talbott,"Ikea Stackable Bookrack, Pine",Canada,743.58,371.7
+CA-2016-ES402023-42675,Erica Smith,"Ikea Stackable Bookrack, Traditional",Canada,735.48,271.98
+CA-2017-SW1075523-43030,Steven Ward,"Motorola Audio Dock, Full Size",Canada,698.64,209.52
+CA-2017-RD958523-42990,Rob Dowd,"Bush Floating Shelf Set, Mobile",Canada,695.16,173.76
+CA-2015-JL523523-42328,Janet Lee,"Cisco Smart Phone, with Caller ID",Canada,654.24,287.85
+CA-2016-NG843023-42661,Nathan Gelder,"Hoover Microwave, Red",Canada,617.28,123.42
+CA-2017-JK612023-42960,Julie Kriz,"Cisco Signal Booster, VoIP",Canada,607.68,36.36
+CA-2014-PB880523-41951,Patrick Bzostek,"StarTech Inkjet, Wireless",Canada,603.54,18.06
+CA-2014-CC247523-41761,Cindy Chapman,"StarTech Inkjet, Durable",Canada,600.36,66
+CA-2016-DB291023-42602,Daniel Byrd,"Brother Ink, Digital",Canada,587.76,146.88
+CA-2016-DN369023-42666,Duane Noonan,"KitchenAid Stove, Red",Canada,570.15,159.63
+CA-2015-CA205523-42110,Cathy Armstrong,"Cuisinart Microwave, Silver",Canada,558.42,0
+CA-2016-TC1129523-42602,Toby Carlisle,"Samsung Signal Booster, Cordless",Canada,557.76,228.6
+CA-2014-TP1141523-41698,Tom Prescott,"Fellowes File Cart, Industrial",Canada,551.16,71.64
+CA-2015-JL513023-42157,Jack Lebron,"Tenex File Cart, Single Width",Canada,538.44,252.96
+CA-2016-CC222023-42615,Chris Cortes,"Bevis Wood Table, with Bottom Storage",Canada,533.61,170.73
+CA-2016-CP208523-42683,Cathy Prescott,"Panasonic Printer, White",Canada,529.8,116.52
+CA-2014-LC714023-41943,Logan Currie,"Canon Copy Machine, Color",Canada,527.16,131.76
+CA-2015-BF108023-42184,Bart Folk,"Hoover Refrigerator, Black",Canada,525.69,162.96
+CA-2016-JM565523-42588,Jim Mitchum,"Brother Copy Machine, Color",Canada,520.98,62.46
+CA-2017-JK562523-42784,Jim Karlsson,"SanDisk Router, Erganomic",Canada,508.32,203.28
+CA-2014-TP1141523-41698,Tom Prescott,"Apple Speaker Phone, with Caller ID",Canada,493.2,123.24
+CA-2016-DB291023-42594,Daniel Byrd,"Belkin Memory Card, USB",Canada,460.08,0
+CA-2015-SV1036523-42236,Seth Vernon,"Hon Executive Leather Armchair, Adjustable",Canada,459.63,124.08
+CA-2017-TG1164023-43070,Trudy Glocke,"Breville Toaster, Black",Canada,456.84,132.48
+CA-2017-JM526523-42980,Janet Molinari,"Rogers Lockers, Industrial",Canada,424.2,161.16
+CA-2017-JP546023-42912,Jennifer Patt,"Rogers Lockers, Single Width",Canada,423.3,186.24
+CA-2016-AB16523-42390,Alan Barnes,"Binney & Smith Canvas, Blue",Canada,410.88,78
+CA-2014-DW354023-41904,Don Weiss,"Tenex Lockers, Industrial",Canada,409.26,114.54
+CA-2015-JL523523-42328,Janet Lee,"Panasonic Calculator, White",Canada,389.52,128.4
+CA-2016-JM565523-42588,Jim Mitchum,"Hewlett Fax and Copier, Color",Canada,388.62,85.44
+CA-2015-NP832523-42236,Naresj Patel,"Canon Fax and Copier, Color",Canada,385.56,92.52
+CA-2017-SC1026023-42955,Scott Cohen,"SanDisk Computer Printout Paper, Multicolor",Canada,374.4,48.6
+CA-2015-CA205523-42110,Cathy Armstrong,"Cisco Audio Dock, Cordless",Canada,369.84,48.06
+CA-2016-JS603023-42397,Joy Smith,"Harbour Creations Swivel Stool, Adjustable",Canada,365.22,102.24
+CA-2017-AO81023-42759,Anthony O'Donnell,"Cisco Audio Dock, with Caller ID",Canada,364.14,80.1
+CA-2017-TG1164023-43070,Trudy Glocke,"Okidata Card Printer, Durable",Canada,351.9,28.14
+CA-2015-JM586523-42336,John Murray,"Motorola Audio Dock, Full Size",Canada,349.32,104.76
+CA-2016-HK489023-42492,Heather Kirkland,"Apple Audio Dock, Full Size",Canada,336.36,30.24
+CA-2017-TG1164023-43070,Trudy Glocke,"Hon Swivel Stool, Black",Canada,322.44,90.24
+CA-2016-TC1147523-42372,Tony Chapman,"Hewlett Fax Machine, Laser",Canada,319.92,15.99
+CA-2016-CP208523-42683,Cathy Prescott,"Bevis Coffee Table, Rectangular",Canada,315.75,129.45
+CA-2014-MM726023-41641,Magdelene Morse,"Okidata Inkjet, Wireless",Canada,314.22,3.12
+CA-2016-TC1147523-42372,Tony Chapman,"Okidata Inkjet, White",Canada,311.25,40.44
+CA-2016-GH448523-42722,Gene Hale,"Hoover Microwave, Black",Canada,308.07,30.78
+CA-2017-TG1164023-43070,Trudy Glocke,"Cisco Signal Booster, with Caller ID",Canada,303.66,75.9
+CA-2017-JD589523-43028,Jonathan Doherty,"StarTech Inkjet, Durable",Canada,300.18,33
+CA-2015-DB312023-42331,David Bremer,"Sauder Corner Shelving, Traditional",Canada,294.6,20.58
+CA-2014-EB384023-41840,Ellis Ballard,"Canon Ink, High-Speed",Canada,290.7,93
+CA-2016-NW840023-42422,Natalie Webber,"Dania 3-Shelf Cabinet, Traditional",Canada,282.9,135.78
+CA-2016-CC222023-42573,Chris Cortes,"Cardinal 3-Hole Punch, Clear",Canada,282.6,59.1
+CA-2016-RR952523-42531,Rick Reed,"Acme Shears, Serrated",Canada,279.72,8.28
+CA-2017-JD589523-43028,Jonathan Doherty,"Cuisinart Microwave, Black",Canada,277.89,13.89
+CA-2017-LW721523-42788,Luke Weiss,"Cisco Speaker Phone, VoIP",Canada,277.14,91.44
+CA-2014-SN1056023-41688,Skye Norling,"Cuisinart Microwave, White",Canada,276.6,30.42
+CA-2017-AB25523-43057,Alejandro Ballentine,"Fellowes File Cart, Wire Frame",Canada,272.76,57.24
+CA-2014-LC714023-41943,Logan Currie,"Okidata Printer, White",Canada,266.91,2.64
+CA-2016-NF838523-42549,Natalie Fritzler,"Konica Printer, White",Canada,266.25,79.86
+CA-2016-PF912023-42687,Peter Fuller,"Motorola Speaker Phone, Full Size",Canada,262.14,28.8
+CA-2017-SC1026023-42955,Scott Cohen,"Belkin Router, Bluetooth",Canada,258.75,10.35
+CA-2016-DL286523-42599,Dan Lawera,"Eldon File Cart, Industrial",Canada,255.78,30.66
+CA-2016-JM565523-42588,Jim Mitchum,"SanDisk Router, Erganomic",Canada,254.16,101.64
+CA-2017-JD589523-43028,Jonathan Doherty,"Bush Corner Shelving, Mobile",Canada,253.02,106.26
+CA-2016-GT475523-42379,Guy Thornton,"Logitech Router, Programmable",Canada,248.82,89.55
+CA-2014-TP1141523-41698,Tom Prescott,"Harbour Creations Bag Chairs, Red",Canada,246.48,105.96
+CA-2017-DM352523-42777,Don Miller,"Rogers Lockers, Industrial",Canada,212.1,80.58
+CA-2015-NF847523-42279,Neil Französisch,"Fellowes Lockers, Wire Frame",Canada,206.4,92.88
+CA-2017-ME772523-42777,Max Engle,"Tenex Lockers, Blue",Canada,204.15,53.07
+CA-2017-RM967523-42994,Robert Marley,"Cardinal Binding Machine, Recycled",Canada,200.52,42
+CA-2015-NG835523-42039,Nat Gilpin,"Smead Lockers, Industrial",Canada,198.9,55.68
+CA-2017-HG496523-43001,Henry Goldwyn,"Acme Scissors, Steel",Canada,198.72,93.36
+CA-2015-PO886523-42159,Patrick O'Donnell,"Binney & Smith Sketch Pad, Water Color",Canada,198,65.28
+CA-2017-TB1128023-42812,Toby Braunhardt,"Eldon Lockers, Single Width",Canada,197.94,96.99
+CA-2016-AG27023-42581,Alejandro Grove,"Fellowes Box, Blue",Canada,196.8,31.2
+CA-2016-KM637523-42535,Katherine Murray,"Avery Binding Machine, Recycled",Canada,196.8,84.6
+CA-2015-NF847523-42279,Neil Französisch,"Safco Floating Shelf Set, Metal",Canada,196.2,58.86
+CA-2016-DJ351023-42518,Don Jones,"SanDisk Cards & Envelopes, Premium",Canada,193.68,73.56
+CA-2015-EM409523-42222,Eudokia Martin,"Avery Binding Machine, Clear",Canada,193.2,23.16
+CA-2015-NF847523-42279,Neil Französisch,"Canon Fax and Copier, Digital",Canada,190.98,21
+CA-2015-AS13523-42133,Adrian Shami,"Rogers Folders, Industrial",Canada,187.02,26.1
+CA-2016-TC1147523-42372,Tony Chapman,"Green Bar Note Cards, 8.5 x 11",Canada,178.2,74.7
+CA-2016-RA928523-42603,Ralph Arnett,"Cisco Headset, with Caller ID",Canada,176.88,70.74
+CA-2016-DN369023-42666,Duane Noonan,"HP Fax and Copier, High-Speed",Canada,171.09,66.72
+CA-2016-MK790523-42720,Michael Kennedy,"Bush Floating Shelf Set, Metal",Canada,170.73,15.36
+CA-2014-RD966023-41726,Robert Dilbeck,"SAFCO Swivel Stool, Adjustable",Canada,170.43,81.78
+CA-2017-DB312023-42742,David Bremer,"Ikea Floating Shelf Set, Traditional",Canada,170.34,10.2
+CA-2016-JR621023-42602,Justin Ritter,"Novimex Steel Folding Chair, Set of Two",Canada,168.96,8.4
+CA-2017-JK612023-42960,Julie Kriz,"Apple Audio Dock, Full Size",Canada,168.18,15.12
+CA-2015-PR888023-42362,Patrick Ryan,"Sauder 3-Shelf Cabinet, Traditional",Canada,166.68,34.98
+CA-2017-DC285023-43066,Dan Campbell,"Belkin Mouse, Bluetooth",Canada,162.84,78.12
+CA-2014-MH744023-41985,Mark Haberlin,"Enermax Mouse, USB",Canada,162,19.44
+CA-2017-LS697523-42788,Lindsay Shagiari,"BIC Highlighters, Easy-Erase",Canada,153.6,35.28
+CA-2015-LH715523-42250,Logan Haushalter,"Stanley Markers, Water Color",Canada,152.28,50.22
+CA-2014-EH394523-41749,Eric Hoffmann,"Hewlett Ink, Color",Canada,150.12,21
+CA-2016-DW348023-42606,Dianna Wilson,"Brother Ink, Color",Canada,148.74,72.87
+CA-2017-CD198023-42845,Carol Darley,"Harbour Creations Chairmat, Set of Two",Canada,148.5,19.26
+CA-2017-RB970523-42951,Roger Barcio,"Sauder Stackable Bookrack, Traditional",Canada,146.28,21.93
+CA-2015-NP832523-42236,Naresj Patel,"Binney & Smith Markers, Blue",Canada,144.54,27.36
+CA-2016-TS1134023-42695,Toby Swindell,"Green Bar Message Books, Premium",Canada,142.74,14.22
+CA-2017-LS697523-42788,Lindsay Shagiari,"Sanford Markers, Blue",Canada,139.5,26.46
+CA-2014-JS559523-41882,Jill Stevenson,"Apple Signal Booster, Full Size",Canada,137.94,6.87
+CA-2017-AH1007523-42832,Adam Hart,"Fellowes File Cart, Blue",Canada,137.31,54.9
+CA-2017-JK562523-42784,Jim Karlsson,"SAFCO Rocking Chair, Set of Two",Canada,137.16,0
+CA-2016-DN369023-42666,Duane Noonan,"Samsung Signal Booster, with Caller ID",Canada,136.59,0
+CA-2017-TB1128023-42812,Toby Braunhardt,"Tenex File Cart, Single Width",Canada,134.16,12.06
+CA-2016-JP552023-42457,Jeremy Pistek,"Ames Peel and Seal, with clear poly window",Canada,133.38,61.2
+CA-2016-LP709523-42524,Liz Preis,"Tenex Box, Blue",Canada,132,32.88
+CA-2016-DB291023-42602,Daniel Byrd,"Eaton Message Books, Multicolor",Canada,131.94,60.66
+CA-2017-MA799523-42962,Michelle Arnett,"Samsung Office Telephone, with Caller ID",Canada,130.44,30
+CA-2014-LC714023-41943,Logan Currie,"Smead File Cart, Single Width",Canada,128.43,1.26
+CA-2015-NG835523-42039,Nat Gilpin,"Smead File Cart, Single Width",Canada,128.43,1.26
+CA-2014-MH744023-41985,Mark Haberlin,"Eldon File Cart, Industrial",Canada,127.89,15.33
+CA-2014-TG1131023-41828,Toby Gnade,"Ibico 3-Hole Punch, Durable",Canada,127.8,47.28
+CA-2015-GH442523-42253,Gary Hwang,"Smead File Cart, Blue",Canada,127.47,1.26
+CA-2015-JH591023-42110,Jonathan Howell,"Rogers Folders, Industrial",Canada,124.68,17.4
+CA-2016-GH448523-42722,Gene Hale,"Samsung Speaker Phone, Full Size",Canada,124.53,29.88
+CA-2017-LS697523-42788,Lindsay Shagiari,"Logitech Mouse, Programmable",Canada,123.12,33.24
+CA-2015-SV1036523-42236,Seth Vernon,"Okidata Receipt Printer, Wireless",Canada,122.91,33.18
+CA-2015-PR888023-42362,Patrick Ryan,"Acco 3-Hole Punch, Recycled",Canada,121.92,10.92
+CA-2016-RR952523-42531,Rick Reed,"Dania Stackable Bookrack, Traditional",Canada,121.05,50.82
+CA-2015-PC900023-42096,Pauline Chand,"Okidata Receipt Printer, Red",Canada,120.06,20.4
+CA-2015-BF108023-42184,Bart Folk,"Memorex Flash Drive, USB",Canada,118.44,10.56
+CA-2015-AC45023-42180,Amy Cox,"Wilson Jones 3-Hole Punch, Durable",Canada,117.96,24.72
+CA-2017-JD589523-43028,Jonathan Doherty,"Boston Pencil Sharpener, Water Color",Canada,116.88,15.12
+CA-2015-RA988523-42044,Ruben Ausman,"Accos Clamps, Bulk Pack",Canada,116.28,54.54
+CA-2014-JK609023-41941,Juliana Krohn,"Fellowes Shelving, Single Width",Canada,115.74,30.06
+CA-2015-BP115523-42125,Becky Pak,"Kraft Manila Envelope, Security-Tint",Canada,115.56,9.24
+CA-2014-EB375023-41965,Edward Becker,"Enermax Note Cards, Premium",Canada,114,11.4
+CA-2015-LB673523-42180,Larry Blacks,"BIC Canvas, Water Color",Canada,113.76,1.08
+CA-2016-LS694523-42491,Linda Southworth,"Stanley Pencil Sharpener, Water Color",Canada,111.84,4.44
+CA-2017-RB970523-42951,Roger Barcio,"Stanley Pencil Sharpener, Water Color",Canada,111.84,4.44
+CA-2016-NG843023-42661,Nathan Gelder,"Avery 3-Hole Punch, Economy",Canada,111.48,55.68
+CA-2017-SV1081523-43092,Stuart Van,"Stiletto Letter Opener, High Speed",Canada,111.12,18.84
+CA-2014-EM406523-41861,Erin Mull,"Wilson Jones 3-Hole Punch, Clear",Canada,109.8,30.72
+CA-2015-CJ201023-42202,Caroline Jumper,"Deflect-O Frame, Erganomic",Canada,108.66,2.16
+CA-2015-RR952523-42309,Rick Reed,"Deflect-O Frame, Erganomic",Canada,108.66,2.16
+CA-2015-AF87023-42334,Art Ferguson,"BIC Canvas, Easy-Erase",Canada,107.94,36.66
+CA-2016-DL333023-42394,Denise Leinenbach,"Acme Letter Opener, Serrated",Canada,107.64,7.44
+CA-2017-DO364523-42972,Doug O'Connell,"SanDisk Numeric Keypad, USB",Canada,106.32,34.02
+CA-2015-JL523523-42328,Janet Lee,"Binney & Smith Canvas, Fluorescent",Canada,105.24,19.98
+CA-2015-SV1036523-42236,Seth Vernon,"Sanford Canvas, Fluorescent",Canada,103.56,38.28
+CA-2017-DO364523-42972,Doug O'Connell,"Sanford Canvas, Fluorescent",Canada,103.56,38.28
+CA-2016-RR952523-42531,Rick Reed,"Binney & Smith Canvas, Easy-Erase",Canada,103.26,17.52
+CA-2014-NC862523-41944,Noah Childs,"Ibico Binding Machine, Economy",Canada,102.84,9.24
+CA-2017-DM352523-42777,Don Miller,"Binney & Smith Canvas, Blue",Canada,102.72,19.5
+CA-2015-NH861023-42160,Nicole Hansen,"Acco Binding Machine, Economy",Canada,102.18,29.58
+CA-2014-CC247523-41761,Cindy Chapman,"Acco Binding Machine, Clear",Canada,101.1,11.1
+CA-2016-TZ1144523-42716,Tom Zandusky,"Cardinal Binding Machine, Recycled",Canada,100.26,21
+CA-2015-EM396023-42154,Eric Murdock,"Memorex Memory Card, Erganomic",Canada,100.08,18
+CA-2014-NB858023-41816,Nicole Brennan,"BIC Sketch Pad, Fluorescent",Canada,99.84,32.94
+CA-2016-RA928523-42603,Ralph Arnett,"Konica Calculator, Red",Canada,97.56,38.04
+CA-2017-NC834023-42904,Nat Carroll,"Eldon Door Stop, Erganomic",Canada,97.56,12.66
+CA-2017-HR477023-42807,Hallie Redmond,"Smead Trays, Single Width",Canada,97.02,31.02
+CA-2014-SN1056023-41688,Skye Norling,"KitchenAid Blender, Black",Canada,96.99,36.84
+CA-2015-AZ75023-42284,Annie Zypern,"Eldon Trays, Single Width",Canada,96,31.68
+CA-2015-MZ751523-42197,Mary Zewe,"Eldon Light Bulb, Erganomic",Canada,95.28,11.4
+CA-2015-LC688523-42331,Lena Creighton,"Binney & Smith Sketch Pad, Fluorescent",Canada,95.16,4.74
+CA-2016-TH1155023-42638,Tracy Hopkins,"Binney & Smith Sketch Pad, Blue",Canada,92.64,24.06
+CA-2017-DP339023-43000,Dennis Pardue,"Breville Blender, White",Canada,90.99,19.08
+CA-2017-RD948023-43053,Rick Duston,"Sanford Sketch Pad, Blue",Canada,90.96,2.7
+CA-2016-JF529523-42588,Jason Fortune-,"Breville Blender, Silver",Canada,90.24,15.33
+CA-2014-AH19523-41859,Alan Haines,"Ames Business Envelopes, Security-Tint",Canada,87.84,29.7
+CA-2017-NC834023-42904,Nat Carroll,"Novimex Steel Folding Chair, Adjustable",Canada,84.72,11.85
+CA-2016-LS694523-42491,Linda Southworth,"Belkin Keyboard, Erganomic",Canada,81.69,4.89
+CA-2017-SW1075523-43030,Steven Ward,"SanDisk Flash Drive, USB",Canada,79.5,3.18
+CA-2017-TG1164023-43070,Trudy Glocke,"SanDisk Keyboard, Erganomic",Canada,79.29,10.29
+CA-2015-NF847523-42279,Neil Französisch,"Kleencut Trimmer, Serrated",Canada,76.26,20.58
+CA-2017-Dp324023-43075,Dean percer,"Harbour Creations Chairmat, Adjustable",Canada,74.49,28.29
+CA-2015-CA205523-42110,Cathy Armstrong,"Logitech Keyboard, Programmable",Canada,73.95,7.38
+CA-2017-DO364523-42972,Doug O'Connell,"Motorola Office Telephone, Full Size",Canada,73.05,23.37
+CA-2017-ML804023-42822,Michelle Lonsdale,"Elite Box Cutter, Easy Grip",Canada,73.02,10.92
+CA-2016-DN369023-42666,Duane Noonan,"Fiskars Box Cutter, High Speed",Canada,71.04,24.84
+CA-2017-BW106523-42913,Barry Weirich,"Smead Folders, Blue",Canada,69.96,8.28
+CA-2016-JS603023-42397,Joy Smith,"Smead Folders, Wire Frame",Canada,66.24,3.96
+CA-2016-DM295523-42391,Dario Medina,"Stiletto Ruler, Easy Grip",Canada,66,27
+CA-2017-BT153023-42748,Bradley Talbott,"Ibico 3-Hole Punch, Durable",Canada,63.9,23.64
+CA-2016-DC285023-42647,Dan Campbell,"Breville Coffee Grinder, Black",Canada,61.29,21.45
+CA-2017-SR1042523-43056,Sharelle Roach,"Binney & Smith Pens, Water Color",Canada,60.48,21.72
+CA-2016-PF912023-42687,Peter Fuller,"Acco 3-Hole Punch, Economy",Canada,60.24,11.4
+CA-2014-DK337523-41705,Dennis Kane,"Ibico 3-Hole Punch, Clear",Canada,59.82,23.88
+CA-2016-HA492023-42604,Helen Andreada,"Green Bar Note Cards, 8.5 x 11",Canada,59.4,24.9
+CA-2014-EB375023-41965,Edward Becker,"Enermax Numeric Keypad, Erganomic",Canada,58.83,6.45
+CA-2017-YC1189523-43001,Yoseph Carroll,"Hon Chairmat, Adjustable",Canada,58.02,13.92
+CA-2016-NF838523-42549,Natalie Fritzler,"Enermax Note Cards, Premium",Canada,57,5.7
+CA-2014-TB1128023-41694,Toby Braunhardt,"Fellowes Shelving, Wire Frame",Canada,56.91,23.31
+CA-2015-JL513023-42157,Jack Lebron,"Boston Canvas, Water Color",Canada,56.82,8.52
+CA-2015-NH861023-42160,Nicole Hansen,"Ames Manila Envelope, with clear poly window",Canada,56.46,24.24
+CA-2016-SG1008023-42457,Sandra Glassco,"Fellowes Trays, Wire Frame",Canada,56.46,14.1
+CA-2014-PO918023-41847,Philisse Overcash,"Advantus Paper Clips, Bulk Pack",Canada,56.28,8.4
+CA-2015-NG835523-42039,Nat Gilpin,"Binney & Smith Pencil Sharpener, Easy-Erase",Canada,55.86,6.12
+CA-2014-SA1083023-41908,Sue Ann Reed,"BIC Markers, Fluorescent",Canada,55.38,4.38
+CA-2016-AG27023-42581,Alejandro Grove,"Acco Binder Covers, Recycled",Canada,54.72,16.32
+CA-2015-MZ751523-42197,Mary Zewe,"Tenex Shelving, Single Width",Canada,54.69,13.65
+CA-2016-SC1077023-42459,Stewart Carmichael,"Tenex Shelving, Blue",Canada,54.66,2.73
+CA-2016-SS1041023-42726,Shahid Shariari,"Binney & Smith Canvas, Water Color",Canada,54.54,26.16
+CA-2017-VM1183523-43092,Vivian Mathis,"BIC Canvas, Easy-Erase",Canada,53.97,18.33
+CA-2015-TZ1144523-42232,Tom Zandusky,"Wilson Jones Binder, Recycled",Canada,53.52,20.28
+CA-2016-CL189023-42542,Carl Ludwig,"Tenex Trays, Wire Frame",Canada,53.28,26.64
+CA-2016-RR952523-42531,Rick Reed,"Fellowes Folders, Single Width",Canada,52.86,21.66
+CA-2015-MH762023-42337,Matt Hagelstein,"Acco Binding Machine, Durable",Canada,52.59,12.6
+CA-2017-JK612023-42960,Julie Kriz,"Acco Binding Machine, Durable",Canada,52.59,12.6
+CA-2017-SH1039523-42909,Shahid Hopkins,"Acco Binding Machine, Durable",Canada,52.59,12.6
+CA-2017-JK562523-42784,Jim Karlsson,"Stanley Pencil Sharpener, Easy-Erase",Canada,52.08,17.7
+CA-2015-BP115523-42125,Becky Pak,"Deflect-O Photo Frame, Black",Canada,51.9,11.4
+CA-2016-LP709523-42524,Liz Preis,"Deflect-O Photo Frame, Black",Canada,51.9,11.4
+CA-2014-KH669023-41828,Kristen Hastings,"Sanford Canvas, Fluorescent",Canada,51.78,19.14
+CA-2017-CS195023-42864,Carlos Soltero,"Binney & Smith Canvas, Easy-Erase",Canada,51.63,8.76
+CA-2017-MK816023-42961,Mike Kennedy,"Binney & Smith Canvas, Blue",Canada,51.36,9.75
+CA-2014-ML775523-41811,Max Ludwig,"Ibico Binding Machine, Clear",Canada,50.88,23.4
+CA-2017-JP546023-42912,Jennifer Patt,"Stanley Markers, Water Color",Canada,50.76,16.74
+CA-2017-Dp324023-42912,Dean percer,"Wilson Jones Binding Machine, Durable",Canada,50.46,0.99
+CA-2015-MH762023-42337,Matt Hagelstein,"Advantus Stacking Tray, Erganomic",Canada,49.98,15.48
+CA-2016-DM295523-42391,Dario Medina,"Cardinal Binding Machine, Economy",Canada,49.77,13.92
+CA-2014-EB384023-41840,Ellis Ballard,"Stiletto Shears, Easy Grip",Canada,49.71,10.92
+CA-2016-DW348023-42496,Dianna Wilson,"Stanley Pencil Sharpener, Fluorescent",Canada,49.56,15.84
+CA-2014-EH394523-41749,Eric Hoffmann,"Stanley Canvas, Blue",Canada,49.47,7.89
+CA-2016-DL333023-42394,Denise Leinenbach,"Kleencut Shears, Easy Grip",Canada,48.39,0
+CA-2017-CR262523-42794,Corey Roper,"Green Bar Cards & Envelopes, Premium",Canada,48.39,15
+CA-2016-NF838523-42549,Natalie Fritzler,"Cameo Interoffice Envelope, Set of 50",Canada,47.43,17.07
+CA-2017-TG1164023-43070,Trudy Glocke,"Deflect-O Clock, Durable",Canada,47.34,15.12
+CA-2017-SR1042523-43056,Sharelle Roach,"Binney & Smith Sketch Pad, Easy-Erase",Canada,46.59,6.96
+CA-2017-DC285023-43066,Dan Campbell,"Elite Shears, Steel",Canada,46.41,21.81
+CA-2017-JK612023-42960,Julie Kriz,"Binney & Smith Sketch Pad, Blue",Canada,46.32,12.03
+CA-2016-AG27023-42581,Alejandro Grove,"BIC Highlighters, Water Color",Canada,44.22,7.92
+CA-2017-TH1111523-42904,Thea Hudgings,"Deflect-O Door Stop, Black",Canada,43.95,1.74
+CA-2015-JL513023-42157,Jack Lebron,"Rubbermaid Door Stop, Duo Pack",Canada,43.86,3.06
+CA-2016-DC285023-42647,Dan Campbell,"Stockwell Staples, Metal",Canada,43.68,16.56
+CA-2017-AG49523-42804,Andrew Gjertsen,"Hamilton Beach Coffee Grinder, Red",Canada,42.66,5.1
+CA-2015-ND846023-42262,Neil Ducich,"Kleencut Trimmer, High Speed",Canada,41.43,11.16
+CA-2017-TD1099523-42920,Tamara Dahlen,"Smead Round Labels, Laser Printer Compatible",Canada,41.4,14.76
+CA-2017-KT646523-42995,Kean Takahito,"Eaton Message Books, Recycled",Canada,40.98,5.7
+CA-2017-NC834023-42904,Nat Carroll,"Hon Round Labels, Laser Printer Compatible",Canada,39.96,16.38
+CA-2016-CP208523-42683,Cathy Prescott,"GlobeWeis Mailers, Set of 50",Canada,38.55,0.36
+CA-2014-SN1056023-41688,Skye Norling,"Acme Box Cutter, Steel",Canada,37.2,13.02
+CA-2016-CC222023-42573,Chris Cortes,"Stiletto Box Cutter, High Speed",Canada,35.97,7.89
+CA-2017-AB10523-42870,Adrian Barton,"Sanford Highlighters, Fluorescent",Canada,34.02,14.28
+CA-2017-LS697523-42788,Lindsay Shagiari,"Eldon Folders, Blue",Canada,33.96,5.76
+CA-2017-SV1081523-43092,Stuart Van,"Enermax Parchment Paper, Multicolor",Canada,33.6,10.08
+CA-2016-NW840023-42422,Natalie Webber,"BIC Pencil Sharpener, Water Color",Canada,32.19,12.21
+CA-2016-PO918023-42505,Philisse Overcash,"Acco Index Tab, Clear",Canada,32.16,13.44
+CA-2016-LP709523-42524,Liz Preis,"Stanley Highlighters, Fluorescent",Canada,31.92,11.76
+CA-2016-NF838523-42549,Natalie Fritzler,"Ibico Binder, Recycled",Canada,31.68,2.52
+CA-2014-GZ447023-41742,Gary Zandusky,"Stockwell Staples, Assorted Sizes",Canada,31.44,11.28
+CA-2017-SW1027523-43016,Scott Williamson,"Tenex Box, Wire Frame",Canada,31.14,14.28
+CA-2014-TP1141523-41698,Tom Prescott,"Acco 3-Hole Punch, Recycled",Canada,30.48,2.73
+CA-2014-MH744023-41985,Mark Haberlin,"Acco Binder, Economy",Canada,30.3,4.2
+CA-2017-AB10523-42870,Adrian Barton,"Stanley Highlighters, Easy-Erase",Canada,29.94,10.74
+CA-2014-DP300023-41907,Darren Powers,"Binney & Smith Pencil Sharpener, Water Color",Canada,29.85,6.84
+CA-2014-SN1056023-41688,Skye Norling,"SanDisk Note Cards, 8.5 x 11",Canada,29.73,7.71
+CA-2015-DH367523-42167,Duane Huffman,"Green Bar Computer Printout Paper, Recycled",Canada,29.67,2.67
+CA-2017-HG496523-43001,Henry Goldwyn,"Acme Letter Opener, Steel",Canada,29.61,12.12
+CA-2015-KB660023-42244,Ken Brennan,"Logitech Mouse, Bluetooth",Canada,29.28,13.17
+CA-2015-AC45023-42096,Amy Cox,"Acco Binder, Clear",Canada,29.22,9.6
+CA-2017-JP546023-42912,Jennifer Patt,"BIC Pens, Easy-Erase",Canada,29.1,6.36
+CA-2017-MK816023-42961,Mike Kennedy,"Stockwell Push Pins, Metal",Canada,28.98,0.24
+CA-2014-EM406523-41861,Erin Mull,"Cardinal 3-Hole Punch, Economy",Canada,28.8,12.96
+CA-2017-LT676523-43092,Larry Tron,"Avery Binder, Durable",Canada,28.8,1.44
+CA-2014-JH543023-41914,Jennifer Halladay,"Memorex Mouse, USB",Canada,28.38,5.37
+CA-2014-CS195023-41779,Carlos Soltero,"Avery 3-Hole Punch, Recycled",Canada,28.23,0
+CA-2015-SL1015523-42344,Sara Luxemburg,"Binney & Smith Pencil Sharpener, Easy-Erase",Canada,27.93,3.06
+CA-2015-CC222023-42245,Chris Cortes,"BIC Markers, Fluorescent",Canada,27.69,2.19
+CA-2017-JK562523-42784,Jim Karlsson,"BIC Markers, Fluorescent",Canada,27.69,2.19
+CA-2016-AS22523-42716,Alan Schoenberger,"Boston Markers, Fluorescent",Canada,27.63,4.14
+CA-2015-RH960023-42192,Rob Haberlin,"Cardinal Hole Reinforcements, Durable",Canada,27.36,5.64
+CA-2015-PO919523-42351,Phillina Ober,"Eaton Memo Slips, Recycled",Canada,27.3,5.7
+CA-2017-SW1027523-43016,Scott Williamson,"Ames Manila Envelope, Security-Tint",Canada,27.09,10.83
+CA-2017-TB1128023-42812,Toby Braunhardt,"Ames Manila Envelope, Security-Tint",Canada,27.09,10.83
+CA-2015-AA37523-42274,Allen Armold,"Cardinal Index Tab, Clear",Canada,26.88,11.28
+CA-2017-RB970523-42951,Roger Barcio,"Novimex Round Labels, 5000 Label Set",Canada,26.64,12.48
+CA-2015-JL513023-42157,Jack Lebron,"Harbour Creations Color Coded Labels, 5000 Label Set",Canada,26.58,12.72
+CA-2017-DW358523-42953,Dorothy Wardle,"Avery Binder, Recycled",Canada,26.52,12.18
+CA-2015-SV1036523-42236,Seth Vernon,"Sanford Markers, Water Color",Canada,26.43,2.37
+CA-2016-MD735023-42633,Maribeth Dona,"Fellowes Folders, Blue",Canada,26.4,13.2
+CA-2015-MH762023-42337,Matt Hagelstein,"Boston Markers, Blue",Canada,26.37,10.8
+CA-2017-FG426023-42945,Frank Gastineau,"Boston Markers, Blue",Canada,26.37,10.8
+CA-2016-CC222023-42445,Chris Cortes,"Sanford Pencil Sharpener, Water Color",Canada,26.1,6.78
+CA-2015-CS213023-42083,Chad Sievert,"Tenex Stacking Tray, Durable",Canada,25.23,6.03
+CA-2015-SV1036523-42236,Seth Vernon,"Cardinal Binder Covers, Recycled",Canada,24.72,11.1
+CA-2016-AM70523-42723,Anne McFarland,"Binney & Smith Markers, Easy-Erase",Canada,24.36,9.72
+CA-2015-HA492023-42140,Helen Andreada,"Binney & Smith Markers, Blue",Canada,24.09,4.56
+CA-2016-TS1108523-42682,Thais Sissman,"Rogers Box, Single Width",Canada,24,2.88
+CA-2014-EH394523-41749,Eric Hoffmann,"Deflect-O Stacking Tray, Erganomic",Canada,23.91,6.69
+CA-2015-JL523523-42328,Janet Lee,"Kleencut Letter Opener, Steel",Canada,23.76,5.94
+CA-2014-RA988523-41890,Ruben Ausman,"Avery Shipping Labels, Laser Printer Compatible",Canada,23.7,3.3
+CA-2017-BT153023-42748,Bradley Talbott,"Sanford Markers, Easy-Erase",Canada,23.52,0.45
+CA-2017-TB1128023-42812,Toby Braunhardt,"Avery Legal Exhibit Labels, 5000 Label Set",Canada,23.46,10.74
+CA-2016-DM295523-42391,Dario Medina,"Advantus Paper Clips, Assorted Sizes",Canada,22.8,3.42
+CA-2014-GZ447023-41742,Gary Zandusky,"Novimex Shipping Labels, 5000 Label Set",Canada,22.74,8.16
+CA-2015-SV1036523-42236,Seth Vernon,"Harbour Creations Legal Exhibit Labels, 5000 Label Set",Canada,22.68,3.6
+CA-2014-LS724523-41778,Lynn Smith,"Deflect-O Stacking Tray, Erganomic",Canada,22.32,0.87
+CA-2016-LP709523-42524,Liz Preis,"Sanford Pens, Blue",Canada,22.2,5.28
+CA-2017-MH802523-43038,Michelle Huthwaite,"Advantus Thumb Tacks, Assorted Sizes",Canada,22.08,3.3
+CA-2017-AO81023-42759,Anthony O'Donnell,"Eaton Message Books, Multicolor",Canada,21.99,10.11
+CA-2015-SJ1021523-42163,Sarah Jordon,"Hon Legal Exhibit Labels, Laser Printer Compatible",Canada,21.72,3.9
+CA-2017-GZ454523-42867,George Zrebassa,"Novimex Legal Exhibit Labels, 5000 Label Set",Canada,21.72,2.82
+CA-2017-GB453023-42987,George Bell,"Eldon Box, Blue",Canada,20.52,5.28
+CA-2017-CR262523-42794,Corey Roper,"Hon Removable Labels, Laser Printer Compatible",Canada,20.16,6.42
+CA-2017-GH466523-43099,Greg Hansen,"Acco Index Tab, Economy",Canada,20.16,9.24
+CA-2016-RA928523-42603,Ralph Arnett,"Stanley Pens, Blue",Canada,20.1,9.84
+CA-2017-DM352523-42777,Don Miller,"Enermax Memo Slips, 8.5 x 11",Canada,19.8,0
+CA-2016-TS1134023-42695,Toby Swindell,"Wilson Jones Hole Reinforcements, Recycled",Canada,19.56,4.68
+CA-2014-EB384023-41840,Ellis Ballard,"BIC Highlighters, Easy-Erase",Canada,19.2,4.41
+CA-2016-NW840023-42422,Natalie Webber,"Avery File Folder Labels, 5000 Label Set",Canada,19.02,0.72
+CA-2014-DW354023-41904,Don Weiss,"Deflect-O Light Bulb, Black",Canada,18.99,6.81
+CA-2016-AJ78023-42527,Anthony Jacobs,"Deflect-O Light Bulb, Black",Canada,18.99,6.81
+CA-2017-DC285023-43066,Dan Campbell,"Stockwell Clamps, Bulk Pack",Canada,18.84,1.5
+CA-2017-LD700523-43057,Lisa DeCherney,"Fellowes Box, Wire Frame",Canada,18.75,8.61
+CA-2015-NM844523-42180,Nathan Mautz,"Ames Business Envelopes, Set of 50",Canada,18.18,5.25
+CA-2016-SS1041023-42726,Shahid Shariari,"Smead Folders, Industrial",Canada,17.97,4.11
+CA-2017-LS724523-42883,Lynn Smith,"Smead Folders, Single Width",Canada,17.52,5.43
+CA-2015-AF87023-42334,Art Ferguson,"BIC Pens, Water Color",Canada,17.46,7.14
+CA-2014-BM165023-41946,Brian Moss,"OIC Rubber Bands, Metal",Canada,17.19,6.51
+CA-2015-HA492023-42140,Helen Andreada,"OIC Rubber Bands, Bulk Pack",Canada,17.07,6.99
+CA-2014-BW111023-41814,Bart Watters,"Sanford Highlighters, Fluorescent",Canada,17.01,7.14
+CA-2017-HG496523-43001,Henry Goldwyn,"Eldon Folders, Blue",Canada,16.98,2.88
+CA-2017-JH618023-42987,Justin Hirsh,"Advantus Rubber Bands, Metal",Canada,16.71,4.17
+CA-2017-JH618023-42987,Justin Hirsh,"SanDisk Parchment Paper, Premium",Canada,16.71,3.15
+CA-2015-CC222023-42245,Chris Cortes,"Tenex Box, Blue",Canada,16.5,4.11
+CA-2017-JS594023-43077,Joni Sundaresam,"Tenex Box, Blue",Canada,16.5,4.11
+CA-2014-MK790523-41658,Michael Kennedy,"Stockwell Clamps, Assorted Sizes",Canada,16.29,5.7
+CA-2016-GH448523-42722,Gene Hale,"Acco Index Tab, Clear",Canada,16.08,6.72
+CA-2017-CR262523-42794,Corey Roper,"Eldon Folders, Wire Frame",Canada,16.05,1.59
+CA-2016-PB880523-42370,Patrick Bzostek,"Sanford Highlighters, Blue",Canada,15.75,1.71
+CA-2017-CR262523-42794,Corey Roper,"Kraft Clasp Envelope, Recycled",Canada,15.6,2.46
+CA-2016-ED388523-42477,Emily Ducich,"Boston Pens, Fluorescent",Canada,15.48,2.61
+CA-2016-MG820523-42491,Mitch Gastineau,"Binney & Smith Pens, Water Color",Canada,15.12,5.43
+CA-2016-RW963023-42701,Rob Williams,"Ibico Binder Covers, Recycled",Canada,14.01,5.16
+CA-2017-SH1039523-42909,Shahid Hopkins,"Advantus Push Pins, 12 Pack",Canada,13.86,4.83
+CA-2015-NG835523-42039,Nat Gilpin,"Ibico Binder Covers, Economy",Canada,13.65,1.89
+CA-2015-RA988523-42044,Ruben Ausman,"Kleencut Ruler, High Speed",Canada,13.56,2.97
+CA-2017-RF934523-43094,Randy Ferguson,"Cardinal Index Tab, Clear",Canada,13.44,5.64
+CA-2015-BF108023-42184,Bart Folk,"Avery Index Tab, Durable",Canada,13.38,3.42
+CA-2016-TS1108523-42682,Thais Sissman,"Cardinal Binder, Clear",Canada,13.29,0.39
+CA-2015-EM382523-42162,Elizabeth Moffitt,"Binney & Smith Pens, Fluorescent",Canada,13.2,0.24
+CA-2015-JL523523-42328,Janet Lee,"Stockwell Paper Clips, Metal",Canada,12.93,0.36
+CA-2016-TC1147523-42372,Tony Chapman,"Avery Binder, Economy",Canada,12.9,5.01
+CA-2016-SS1041023-42726,Shahid Shariari,"Novimex Round Labels, Laser Printer Compatible",Canada,12.54,5.88
+CA-2014-TP1141523-41698,Tom Prescott,"OIC Push Pins, Assorted Sizes",Canada,12.36,2.46
+CA-2015-BF108023-42184,Bart Folk,"Cardinal Binder Covers, Recycled",Canada,12.36,5.55
+CA-2016-SJ1012523-42589,Sanjit Jacobs,"Avery Binder, Clear",Canada,12.36,1.23
+CA-2017-YC1189523-43001,Yoseph Carroll,"Acco Hole Reinforcements, Clear",Canada,12.24,0.48
+CA-2015-RS942023-42251,Ricardo Sperren,"Avery Shipping Labels, Laser Printer Compatible",Canada,11.85,1.65
+CA-2014-TP1141523-41698,Tom Prescott,"Hon Shipping Labels, 5000 Label Set",Canada,11.76,5.64
+CA-2016-SJ1012523-42589,Sanjit Jacobs,"Cardinal Binder Covers, Clear",Canada,11.46,2.97
+CA-2016-TC1129523-42602,Toby Carlisle,"Stockwell Push Pins, Assorted Sizes",Canada,11.43,4.89
+CA-2014-CC222023-41813,Chris Cortes,"Stockwell Paper Clips, Assorted Sizes",Canada,10.95,4.26
+CA-2017-RM967523-42994,Robert Marley,"Harbour Creations Legal Exhibit Labels, Laser Printer Compatible",Canada,10.95,2.4
+CA-2017-AB25523-43057,Alejandro Ballentine,"Advantus Staples, 12 Pack",Canada,10.29,0.72
+CA-2016-RR952523-42531,Rick Reed,"Eldon Box, Wire Frame",Canada,9.33,2.97
+CA-2017-AG49523-43052,Andrew Gjertsen,"Ibico Index Tab, Durable",Canada,9.27,4.05
+CA-2017-TB1128023-42812,Toby Braunhardt,"Avery Legal Exhibit Labels, Adjustable",Canada,9.24,2.85
+CA-2014-CC222023-41813,Chris Cortes,"Hon Round Labels, Adjustable",Canada,9.12,3.24
+CA-2017-RD958523-42990,Rob Dowd,"Harbour Creations Legal Exhibit Labels, Adjustable",Canada,8.85,4.05
+CA-2016-TS1108523-42682,Thais Sissman,"Cardinal Index Tab, Economy",Canada,8.76,4.02
+CA-2017-JD589523-43028,Jonathan Doherty,"Cardinal Index Tab, Economy",Canada,8.76,4.02
+CA-2014-GZ447023-41742,Gary Zandusky,"Smead Removable Labels, Adjustable",Canada,8.4,0.06
+CA-2016-SS1041023-42726,Shahid Shariari,"Wilson Jones Hole Reinforcements, Clear",Canada,7.98,0.84
+CA-2017-SS1014023-42920,Saphhira Shifley,"Cardinal Index Tab, Clear",Canada,7.26,2.52
+CA-2017-KT646523-42995,Kean Takahito,"Ibico Hole Reinforcements, Economy",Canada,6.99,3.42
+CA-2015-BP115523-42125,Becky Pak,"Smead Round Labels, Laser Printer Compatible",Canada,6.9,2.46
+CA-2016-CD198023-42420,Carol Darley,"Smead Round Labels, Laser Printer Compatible",Canada,6.9,2.46
+CA-2015-PO886523-42159,Patrick O'Donnell,"Cardinal Hole Reinforcements, Durable",Canada,6.84,1.41
+CA-2017-VM1183523-43092,Vivian Mathis,"Avery Index Tab, Durable",Canada,6.69,1.71
+CA-2015-NF847523-42279,Neil Französisch,"Acco Hole Reinforcements, Economy",Canada,6.66,0.57
+CA-2014-MH744023-41985,Mark Haberlin,"Hon Round Labels, Alphabetical",Canada,6.48,0.06
+CA-2016-NG835523-42404,Nat Gilpin,"Acco Hole Reinforcements, Clear",Canada,6.12,0.24
+CA-2017-NC834023-42904,Nat Carroll,"Wilson Jones Index Tab, Clear",Canada,5.91,0.51
+CA-2014-AS24023-41902,Alan Shonely,"Smead Round Labels, Adjustable",Canada,4.8,1.44
+CA-2014-RD966023-41726,Robert Dilbeck,"Wilson Jones Hole Reinforcements, Economy",Canada,4.53,2.25
+CA-2017-Dp324023-42912,Dean percer,"Novimex Round Labels, Adjustable",Canada,4.17,1.14
+CA-2017-JD589523-43028,Jonathan Doherty,"Wilson Jones Hole Reinforcements, Clear",Canada,3.99,0.42
